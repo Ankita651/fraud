@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image>59e546842f725010ac5bcc96f699b68d</homepage_image>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 09:46:50</sys_created_on>
+        <sys_id>e0b546442f725010ac5bcc96f699b6c7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Fraud category</sys_name>
+        <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+        <sys_update_name>sc_category_e0b546442f725010ac5bcc96f699b6c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 09:47:17</sys_updated_on>
+        <title>Fraud category</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=e0b546442f725010ac5bcc96f699b6c7"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>homepage_image</file_name>
+        <hash>dd7f5d347ed255aee857333215ecfe4967a10f7abf14fe5f0b71187bcf1507ad</hash>
+        <image_height>72</image_height>
+        <image_width>73</image_width>
+        <size_bytes>999</size_bytes>
+        <size_compressed>1022</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 09:47:16</sys_created_on>
+        <sys_id>59e546842f725010ac5bcc96f699b68d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 09:47:17</sys_updated_on>
+        <table_name>ZZ_YYsc_category</table_name>
+        <table_sys_id>e0b546442f725010ac5bcc96f699b6c7</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="homepage_image" sys_id="59e546842f725010ac5bcc96f699b68d">59e546842f725010ac5bcc96f699b68d</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 09:47:16</sys_created_on>
+        <sys_id>99e546842f725010ac5bcc96f699b68d</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AecDGPyJUE5HDQoaCgAAAA1JSERSAAAASQAAAEgIBgAAALov2HkAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADiUlEQVR42uybP2/aQBjGD4RUVaoaV/0zpIsH9pilq80nCFm6BuYOKbMHYPCMMnTG/QRxxk7QoR3aoWboFileytJKYagUVVn6XnhNT+7FGOxDOfM+kmUwcMY/3nvuuXPCGIlEIpG0UiV+4LpuG3YmIblV5HmeHz+pCS8cw+YQn1tNYFtCqhKP1SJIBKkY1VJeG4B59XcBAgxa4zQ/pkqi7kaQCBJBIkgEiSCRCBJBIkgEiSARJIJEWqpW1gvrfJmZbLFGZOKhA9im+HgCWzh6tT/fOUgAxoBdG7YTJr/z08J9D98fwO6Unb+LdqK7wQVzOJewDVn2W2Mc2nh2+Ma8MZ77pa0krJ6RUCWbyPlpv54/uvgWPP7+2SkVJATE16etHM3wrsa9yfpdb7RujBeDp5+CvTJ1t7OcgERI3MzZn2cve9D9pqWABFXUZ/nvOCcNO8T9EEdHfSHhBfQKaCoJaY7HYp/T2pN6BbWTVokO/BgOZKlJTdMqam9QMRH6l4EVEybeY0qiA89bEx0raZ2hnofFLlRDlMhTw4x+1tK1u9kZ3+cDnE7yIBzjodEHWGdYOdaKynV0hGRl7F5dvMi36GEGHj8CULyrnYvmnOZNOo5uWaYcAZ+88irArmUInx0JFbXTSyXTlNFLrMTJLkMy78hBcRZapypLC8kWRrfkUB97lZUVUppx267r9u/ZxQezRRdZNXzzINgC3wlg38Sh3ESvWk49smas2oo06twzSAdYGVm+F59/cYPm1eQnVg6Ga1ybdmGy9XB20bner69K1stYBFB4av6Iz/cwrRsZz8eXeCPtctKTrx/s68N6JPiJbIrBhClInh5xqqtxtx/8+vE+ZSYfj1pGzvNEaPz//m1Cw4lu/BezskoqwkuP0M+0jgAdBGQkAqJZQNt+DEhrSDizbwqgzIIghXGWypKTChPkLasAj/gvOXuQeTAHjZl8PWjtHMYrNHnTcluj24jlX7CX/eKN0QJUA8+Rx4sG0JY0PFe2UEW8gq5UJQLP8+aCmbdxWWSdivIRULTJtKQoOYrbDgSf4hfs47zsGKvXkQztIQbMIA3ONiHZitsOJKYe3hEwN1K1BJWkXEo9SbEfSX1JhaoaV9HWzqEakr0FSLa23Q0D5FhBiJRNRBsqu1xFc0BisGyqAlUpASDloColAaQUVNFhsldkiMvxHbqMRCKRSCQSKZ/+CjAAXhsV71xAyO8AAAAASUVORK5CYIL9LKiD5wMAAA==</data>
+        <length>1352</length>
+        <position>1</position>
+        <sys_attachment display_value="homepage_image" sys_id="59e546842f725010ac5bcc96f699b68d">59e546842f725010ac5bcc96f699b68d</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 09:47:16</sys_created_on>
+        <sys_id>1de546842f725010ac5bcc96f699b68d</sys_id>
+    </sys_attachment_doc>
+</record_update>

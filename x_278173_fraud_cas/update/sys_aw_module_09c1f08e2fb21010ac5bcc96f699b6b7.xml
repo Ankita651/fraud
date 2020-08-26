@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Lists Module Content">49c1f08e2fb21010ac5bcc96f699b6cd</content>
+        <content_attrs/>
+        <content_component display_value="sn-workspace-list-module">19622d2bff222300294153bd6338f1ef</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>list-outline</icon>
+        <id>list</id>
+        <label>Lists</label>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 08:47:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>09c1f08e2fb21010ac5bcc96f699b6b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>list</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+        <sys_update_name>sys_aw_module_09c1f08e2fb21010ac5bcc96f699b6b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 08:47:33</sys_updated_on>
+        <toolbar_button display_value="Lists Button">0dc1f08e2fb21010ac5bcc96f699b6b7</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="Fraud Case Management">b0c1384e2fb21010ac5bcc96f699b619</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=09c1f08e2fb21010ac5bcc96f699b6b7"/>
+</record_update>

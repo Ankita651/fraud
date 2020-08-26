@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "ckeiiicctljaaaabbaddbhhmmyzmjjavee",
+  "elementLabel" : "Container",
+  "propertyValues" : {
+    "label" : "",
+    "type" : "default",
+    "bgvar" : "",
+    "border" : false,
+    "canCollapse" : false,
+    "collapsed" : false
+  },
+  "slot" : "cke8i2tlj001b3b7mzavetqwl",
+  "definition" : {
+    "id" : "80653115e23949b501e719ae9b0b42a6",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "composition" : [ {
+      "elementId" : "ckeiiiddjjabbaaaabblddbhhmtvhnwffwp",
+      "elementLabel" : "List",
+      "propertyValues" : {
+        "listTitle" : "All Fraud Active Tasks",
+        "table" : "x_278173_fraud_cas_fraud_management",
+        "query" : "state=1^assigned_toISNOTEMPTY",
+        "columns" : null,
+        "limit" : "5",
+        "maxColumns" : "5",
+        "page" : "1",
+        "hideHeader" : false,
+        "hideTitle" : false,
+        "hideTitleRowCount" : false,
+        "hideRefreshButton" : false,
+        "hideLastRefreshedText" : false,
+        "hideLinks" : false,
+        "hideViewAll" : false,
+        "hideHighlightedValues" : false,
+        "hideCellFilter" : true,
+        "hideCheckboxHover" : true,
+        "hideColumnFiltering" : true,
+        "hideColumnGrouping" : true,
+        "hideColumnSorting" : false,
+        "hideFilterPanel" : false,
+        "hideFirstPage" : false,
+        "hideLastPage" : false,
+        "hideLimitSelector" : false,
+        "hideMenuButton" : true,
+        "hideMultiEdit" : false,
+        "hideDeclarativeActions" : false,
+        "hideNextPage" : false,
+        "hidePages" : false,
+        "hidePagination" : true,
+        "hidePanel" : true,
+        "hidePanelAdvanced" : false,
+        "hidePanelConditionDelete" : false,
+        "hidePanelFooter" : false,
+        "hidePanelRestore" : false,
+        "hidePreviousPage" : false,
+        "hideQuickEdit" : true,
+        "hideRange" : false,
+        "hideRowCount" : false,
+        "hideRowSelector" : false,
+        "hideSelectAll" : true,
+        "hideEmptyStateImage" : false,
+        "hideDBViews" : false,
+        "hideUnnecessaryRowSelectors" : true
+      },
+      "slot" : "cke8i39a2001m3b7mei4nvibw",
+      "definition" : {
+        "id" : "2b1c080881e05dc63b917044290b233f",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null
+    }, {
+      "elementId" : "ckeiiihbbhhbaaaaccccddbhhmeeegxoeeca",
+      "elementLabel" : "Container",
+      "propertyValues" : {
+        "label" : "",
+        "type" : "default",
+        "bgvar" : "",
+        "border" : false,
+        "canCollapse" : false,
+        "collapsed" : false
+      },
+      "slot" : "cke8ih17c00233b7mb0bh6qoc",
+      "definition" : {
+        "id" : "80653115e23949b501e719ae9b0b42a6",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : {
+        "composition" : [ {
+          "elementId" : "ckeiiiheereeaaaaccggddbhhmciiaaxvxcch",
+          "elementLabel" : "Report / PA Widget",
+          "propertyValues" : {
+            "label" : "",
+            "reportSysId" : "f9a4c3c82ff25010ac5bcc96f699b6ed",
+            "paWidgetSysId" : "",
+            "isRealtime" : false,
+            "variant" : "auto",
+            "border" : false,
+            "refreshInterval" : ""
+          },
+          "slot" : "cke8ih4r500273b7me6ytjdiv",
+          "definition" : {
+            "id" : "7dbc62b27efa88d6d910579a68c7a65d",
+            "type" : "MACROPONENT"
+          },
+          "overrides" : null
+        } ],
+        "layout" : {
+          "default" : {
+            "type" : "rowColumn",
+            "root" : {"type":"row","columns":[{"type":"column","slotName":"cke8ih4r500273b7me6ytjdiv","size":"12","rows":[],"id":"cke8ih4r500293b7mgy18u9aq"}],"id":"cke8ih4r500283b7mdx0c60qf"}
+          }
+        }
+      }
+    }, {
+      "elementId" : "ckeiiihpdduaaaaccbddbhhmecciccpccfe",
+      "elementLabel" : "Report / PA Widget",
+      "propertyValues" : {
+        "label" : "",
+        "reportSysId" : "f24535882f325010ac5bcc96f699b6d2",
+        "paWidgetSysId" : "",
+        "isRealtime" : false,
+        "variant" : "auto",
+        "border" : false,
+        "refreshInterval" : ""
+      },
+      "slot" : "cke8ihp3u002c3b7mkx0dzo9a",
+      "definition" : {
+        "id" : "7dbc62b27efa88d6d910579a68c7a65d",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null
+    } ],
+    "layout" : {
+      "default" : {
+        "type" : "rowColumn",
+        "root" : {"type":"column","id":"cke8i39a2001n3b7mmpzprsrw","size":"12","rows":[{"type":"row","id":"cke8i39a2001o3b7mtiiq3lnx","slotName":"cke8i39a2001m3b7mei4nvibw"},{"id":"cke8ihp42002e3b7mguzgz8hc","type":"row","columns":[{"type":"column","id":"cke8ih17m00243b7mr2mvzltu","slotName":"cke8ih17c00233b7mb0bh6qoc","size":"6"},{"type":"column","slotName":"cke8ihp3u002c3b7mkx0dzo9a","id":"cke8ihp42002d3b7mco1r3r2m","size":"6"}]}]}
+      }
+    }
+  }
+} ]</composition>
+        <data/>
+        <events/>
+        <extends display_value="Landing Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <interactions/>
+        <layout>{
+  "default" : {
+    "type" : "rowColumn",
+    "root" : {"type":"row","id":"cke8i2tlk001c3b7mb5x7m5po","columns":[{"type":"column","id":"cke8i2tlk001d3b7mghk49dhn","slotName":"cke8i2tlj001b3b7mzavetqwl","size":"12"}]}
+  }
+}</layout>
+        <macroponent_dependencies/>
+        <name>Fraud page</name>
+        <props/>
+        <root_component/>
+        <root_component_config/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 12:03:10</sys_created_on>
+        <sys_id>e28e5d0e2f361010ac5bcc96f699b65c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Fraud page</sys_name>
+        <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+        <sys_update_name>sys_ux_macroponent_e28e5d0e2f361010ac5bcc96f699b65c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 12:43:55</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>

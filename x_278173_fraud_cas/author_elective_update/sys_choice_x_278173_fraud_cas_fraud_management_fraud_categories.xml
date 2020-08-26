@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="fraud_categories" table="x_278173_fraud_cas_fraud_management" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fraud_categories</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Employee Fraud</label>
+            <language>en</language>
+            <name>x_278173_fraud_cas_fraud_management</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-13 17:30:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14dff9222f22d010ac5bcc96f699b6ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-13 17:30:56</sys_updated_on>
+            <value>employee fraud</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fraud_categories</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Birbery / Corruption</label>
+            <language>en</language>
+            <name>x_278173_fraud_cas_fraud_management</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-13 17:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d10c6222f22d010ac5bcc96f699b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-13 17:31:40</sys_updated_on>
+            <value>birbery corruption</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fraud_categories</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Insurance fraud</label>
+            <language>en</language>
+            <name>x_278173_fraud_cas_fraud_management</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-13 17:32:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c40c6222f22d010ac5bcc96f699b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-13 17:32:04</sys_updated_on>
+            <value>insurance fraud</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fraud_categories</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HealthCare fraud</label>
+            <language>en</language>
+            <name>x_278173_fraud_cas_fraud_management</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-13 17:32:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e50ca222f22d010ac5bcc96f699b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-13 17:32:40</sys_updated_on>
+            <value>healthcare fraud</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fraud_categories</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Debit and credit Card Fraud</label>
+            <language>en</language>
+            <name>x_278173_fraud_cas_fraud_management</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-13 17:33:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51804a222f22d010ac5bcc96f699b614</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-13 17:33:38</sys_updated_on>
+            <value>debit and credit card fraud</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fraud_categories</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Banking fraud</label>
+            <language>en</language>
+            <name>x_278173_fraud_cas_fraud_management</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-13 17:34:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0b00a222f22d010ac5bcc96f699b6fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-13 17:34:04</sys_updated_on>
+            <value>banking fraud</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fraud_categories</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data and identify theft fraud</label>
+            <language>en</language>
+            <name>x_278173_fraud_cas_fraud_management</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-13 17:34:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97c042ee2fee9010ac5bcc96f699b6da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-13 17:34:42</sys_updated_on>
+            <value>Data and identify theft fraud</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fraud_categories</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Procurement fraud</label>
+            <language>en</language>
+            <name>x_278173_fraud_cas_fraud_management</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-13 17:35:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45f082622f22d010ac5bcc96f699b6c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-13 17:35:08</sys_updated_on>
+            <value>Procurement fraud</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fraud_categories</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Online fraud</label>
+            <language>en</language>
+            <name>x_278173_fraud_cas_fraud_management</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-13 17:35:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae010a222f22d010ac5bcc96f699b660</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-13 17:35:30</sys_updated_on>
+            <value>online fraud</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fraud_categories</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email/Phone Call Fraud</label>
+            <language>en</language>
+            <name>x_278173_fraud_cas_fraud_management</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-13 17:36:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c2186622f22d010ac5bcc96f699b665</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-13 17:36:31</sys_updated_on>
+            <value>email phone call fraud</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>fraud_categories</element>
+            <name>x_278173_fraud_cas_fraud_management</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-13 17:30:56</sys_created_on>
+            <sys_id>64104eee2fee9010ac5bcc96f699b651</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>fraud_categories</sys_name>
+            <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+            <sys_update_name>sys_choice_x_278173_fraud_cas_fraud_management_fraud_categories</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-13 17:30:56</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

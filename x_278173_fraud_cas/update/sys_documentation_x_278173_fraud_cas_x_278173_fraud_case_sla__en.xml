@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="fraudcasesla" language="en" table="x_278173_fraud_cas_x_278173_fraud_case_sla">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>fraudcasesla</label>
+            <language>en</language>
+            <name>x_278173_fraud_cas_x_278173_fraud_case_sla</name>
+            <plural>fraudcaseslas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-18 06:23:11</sys_created_on>
+            <sys_id>bb27d1042ffe1010ac5bcc96f699b6b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>fraudcasesla</sys_name>
+            <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+            <sys_update_name>sys_documentation_x_278173_fraud_cas_x_278173_fraud_case_sla__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-18 06:23:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

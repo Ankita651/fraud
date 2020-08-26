@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Create Fraud Case">b40402442f725010ac5bcc96f699b637</sc_cat_item>
+        <sc_category display_value="Fraud category">e0b546442f725010ac5bcc96f699b6c7</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 09:48:12</sys_created_on>
+        <sys_id>fa168a842f725010ac5bcc96f699b6aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fraud category.Create Fraud Case</sys_name>
+        <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+        <sys_update_name>sc_cat_item_category_fa168a842f725010ac5bcc96f699b6aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 09:48:12</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</application>
+        <file_path/>
+        <instance_id>e2680ac9db4f889452cec5970596192f</instance_id>
+        <instance_name>dev100921</instance_name>
+        <name>sc_cat_item_category_fa168a842f725010ac5bcc96f699b6aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create Fraud Case">b40402442f725010ac5bcc96f699b637</sc_cat_item><sc_category display_value="Fraud category">e0b546442f725010ac5bcc96f699b6c7</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 09:48:12</sys_created_on><sys_id>fa168a842f725010ac5bcc96f699b6aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Fraud category.Create Fraud Case</sys_name><sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package><sys_policy/><sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope><sys_update_name>sc_cat_item_category_fa168a842f725010ac5bcc96f699b6aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 09:48:12</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1201212394</payload_hash>
+        <record_name>Fraud category.Create Fraud Case</record_name>
+        <reverted_from/>
+        <source>7aa40cae2faa9010ac5bcc96f699b66d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 09:48:12</sys_created_on>
+        <sys_id>fa168a842f725010ac5bcc96f699b6ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17400f815090000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 09:48:12</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>f2168a84c3725010bec381d716329dad</update_guid>
+        <update_guid_history>f2168a84c3725010bec381d716329dad:-1201212394</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Fraud category.Create Fraud Case">9e4123502f329010ac5bcc96f699b644</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-19 11:05:02</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>485c47b6bb1e4092a85e552e2a5cd779</sys_id>
+        <sys_metadata>fa168a842f725010ac5bcc96f699b6aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fraud category.Create Fraud Case</sys_name>
+        <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+        <sys_parent display_value="">b40402442f725010ac5bcc96f699b637</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+        <sys_scope_delete display_value="">1c2b68c0032b43f4a445980afa32d090</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_fa168a842f725010ac5bcc96f699b6aa</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_fa168a842f725010ac5bcc96f699b6aa">fa168a842f725010ac5bcc96f699b6ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-19 11:05:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

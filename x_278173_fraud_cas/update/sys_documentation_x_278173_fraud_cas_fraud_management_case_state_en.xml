@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="case_state" label="Case State" language="en" table="x_278173_fraud_cas_fraud_management">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>case_state</element>
+            <help/>
+            <hint/>
+            <label>Case State</label>
+            <language>en</language>
+            <name>x_278173_fraud_cas_fraud_management</name>
+            <plural>Case States</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-13 17:22:53</sys_created_on>
+            <sys_id>723e39ee2fee9010ac5bcc96f699b65a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Case State</sys_name>
+            <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+            <sys_update_name>sys_documentation_x_278173_fraud_cas_fraud_management_case_state_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-13 17:22:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="29b2cea22f22d010ac5bcc96f699b645" sys_domain="global" table="x_278173_fraud_cas_fraud_management" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-18 11:47:12</sys_created_on>
+            <sys_id>865122882fb25010ac5bcc96f699b68f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-18 11:47:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fraud_categories</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-18 11:47:12</sys_created_on>
+            <sys_id>0a5122882fb25010ac5bcc96f699b68f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-18 11:47:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>case_state</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-18 11:47:12</sys_created_on>
+            <sys_id>8a5122882fb25010ac5bcc96f699b68f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-18 11:47:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-18 11:47:12</sys_created_on>
+            <sys_id>0e5122882fb25010ac5bcc96f699b68f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-18 11:47:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-18 11:47:12</sys_created_on>
+            <sys_id>8e5122882fb25010ac5bcc96f699b68f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-18 11:47:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-18 11:47:12</sys_created_on>
+            <sys_id>025122882fb25010ac5bcc96f699b690</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-18 11:47:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-18 11:47:12</sys_created_on>
+            <sys_id>825122882fb25010ac5bcc96f699b690</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-18 11:47:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-18 11:47:12</sys_created_on>
+            <sys_id>065122882fb25010ac5bcc96f699b690</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-18 11:47:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-18 11:47:12</sys_created_on>
+            <sys_id>865122882fb25010ac5bcc96f699b690</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-18 11:47:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-18 11:47:12</sys_created_on>
+            <sys_id>0a5122882fb25010ac5bcc96f699b690</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-18 11:47:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_278173_fraud_cas_fraud_management</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-13 17:42:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29b2cea22f22d010ac5bcc96f699b645</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_278173_fraud_cas_fraud_management</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+            <sys_update_name>sys_ui_section_29b2cea22f22d010ac5bcc96f699b645</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-13 17:42:29</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</application>
+        <file_path/>
+        <instance_id>e2680ac9db4f889452cec5970596192f</instance_id>
+        <instance_name>dev100921</instance_name>
+        <name>sys_ui_section_29b2cea22f22d010ac5bcc96f699b645</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="29b2cea22f22d010ac5bcc96f699b645" sys_domain="global" table="x_278173_fraud_cas_fraud_management" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 11:47:12</sys_created_on><sys_id>865122882fb25010ac5bcc96f699b68f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 11:47:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>fraud_categories</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 11:47:12</sys_created_on><sys_id>0a5122882fb25010ac5bcc96f699b68f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 11:47:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>case_state</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 11:47:12</sys_created_on><sys_id>8a5122882fb25010ac5bcc96f699b68f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 11:47:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cmdb_ci</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 11:47:12</sys_created_on><sys_id>0e5122882fb25010ac5bcc96f699b68f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 11:47:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 11:47:12</sys_created_on><sys_id>8e5122882fb25010ac5bcc96f699b68f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 11:47:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 11:47:12</sys_created_on><sys_id>025122882fb25010ac5bcc96f699b690</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 11:47:12</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 11:47:12</sys_created_on><sys_id>825122882fb25010ac5bcc96f699b690</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 11:47:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 11:47:12</sys_created_on><sys_id>065122882fb25010ac5bcc96f699b690</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 11:47:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>parent</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 11:47:12</sys_created_on><sys_id>865122882fb25010ac5bcc96f699b690</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 11:47:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 11:47:12</sys_created_on><sys_id>0a5122882fb25010ac5bcc96f699b690</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_278173_fraud_cas_fraud_management" sys_domain="global" view="Default view">29b2cea22f22d010ac5bcc96f699b645</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 11:47:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_278173_fraud_cas_fraud_management</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-13 17:42:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>29b2cea22f22d010ac5bcc96f699b645</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_278173_fraud_cas_fraud_management</sys_name><sys_overrides/><sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package><sys_policy/><sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope><sys_update_name>sys_ui_section_29b2cea22f22d010ac5bcc96f699b645</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-13 17:42:29</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1238152092</payload_hash>
+        <record_name>Fraud Management</record_name>
+        <reverted_from/>
+        <source>7aa40cae2faa9010ac5bcc96f699b66d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 11:47:12</sys_created_on>
+        <sys_id>4a5122882fb25010ac5bcc96f699b692</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174016508840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 11:47:12</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>025122880fb25010fc9dc75b398fbb92</update_guid>
+        <update_guid_history>025122880fb25010fc9dc75b398fbb92:1238152092,133386e2f822d01097fcf7d8ccfeb5e4:-2069564582,db3386e23b22d010843fcd9c84d53bd6:2109988960</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 11:52:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>4ba617927a214210a8dd1a56eaa4a519</sys_id>
+        <sys_metadata>29b2cea22f22d010ac5bcc96f699b645</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_278173_fraud_cas_fraud_management</sys_name>
+        <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+        <sys_parent display_value="Fraud Management">ab3df9ae2fee9010ac5bcc96f699b6b2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+        <sys_scope_delete display_value="">1c2b68c0032b43f4a445980afa32d090</sys_scope_delete>
+        <sys_update_name>sys_ui_section_29b2cea22f22d010ac5bcc96f699b645</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_29b2cea22f22d010ac5bcc96f699b645">4a5122882fb25010ac5bcc96f699b692</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 11:52:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

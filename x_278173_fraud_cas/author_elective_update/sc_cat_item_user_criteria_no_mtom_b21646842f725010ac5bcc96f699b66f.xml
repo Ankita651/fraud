@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="Create Fraud Case">b40402442f725010ac5bcc96f699b637</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 09:48:12</sys_created_on>
+        <sys_id>b21646842f725010ac5bcc96f699b66f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Fraud Case.SNC External</sys_name>
+        <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_b21646842f725010ac5bcc96f699b66f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 09:48:12</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</application>
+        <file_path/>
+        <instance_id>e2680ac9db4f889452cec5970596192f</instance_id>
+        <instance_name>dev100921</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_b21646842f725010ac5bcc96f699b66f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create Fraud Case">b40402442f725010ac5bcc96f699b637</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 09:48:12</sys_created_on><sys_id>b21646842f725010ac5bcc96f699b66f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create Fraud Case.SNC External</sys_name><sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package><sys_policy/><sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_b21646842f725010ac5bcc96f699b66f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 09:48:12</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>1522514991</payload_hash>
+        <record_name>Create Fraud Case.SNC External</record_name>
+        <reverted_from/>
+        <source>02e992012f030010ac5bcc96f699b62e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-02-17 03:53:10</sys_created_on>
+        <sys_id>664123502f329010ac5bcc96f699b679</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>170514744700000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>26412350323290103fd4844a02a56479</update_guid>
+        <update_guid_history>26412350323290103fd4844a02a56479:1522514991</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create Fraud Case.SNC External">6e4123502f329010ac5bcc96f699b67c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-19 11:05:03</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>1d00ae4ef2c2433f8e361a1afb5d9409</sys_id>
+        <sys_metadata>b21646842f725010ac5bcc96f699b66f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Fraud Case.SNC External</sys_name>
+        <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+        <sys_scope_delete display_value="">1c2b68c0032b43f4a445980afa32d090</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_b21646842f725010ac5bcc96f699b66f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_b21646842f725010ac5bcc96f699b66f">664123502f329010ac5bcc96f699b679</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-19 11:05:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

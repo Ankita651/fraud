@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="DELETE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon>e50d86c82f725010ac5bcc96f699b6cc</icon>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Create Fraud Case</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture>b75d420c2f725010ac5bcc96f699b665</picture>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=b40402442f725010ac5bcc96f699b637&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <request_method/>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script/>
+        <short_description>Fraud case</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 09:48:11</sys_created_on>
+        <sys_id>b40402442f725010ac5bcc96f699b637</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Create Fraud Case</sys_name>
+        <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+        <sys_update_name>sc_cat_item_producer_b40402442f725010ac5bcc96f699b637</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-19 11:05:02</sys_updated_on>
+        <table_name>x_278173_fraud_cas_fraud_management</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="DELETE" query="documentkey=b40402442f725010ac5bcc96f699b637"/>
+    <fx_price action="DELETE" query="id=b40402442f725010ac5bcc96f699b637"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="INR">INR</currency>
+        <field>price</field>
+        <id>b40402442f725010ac5bcc96f699b637</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 09:48:12</sys_created_on>
+        <sys_id>f21646842f725010ac5bcc96f699b671</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 09:48:12</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="INR">INR</currency>
+        <field>recurring_price</field>
+        <id>b40402442f725010ac5bcc96f699b637</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 09:48:12</sys_created_on>
+        <sys_id>3a1646842f725010ac5bcc96f699b672</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 09:48:12</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="DELETE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>icon</file_name>
+        <hash>dd7f5d347ed255aee857333215ecfe4967a10f7abf14fe5f0b71187bcf1507ad</hash>
+        <image_height>72</image_height>
+        <image_width>73</image_width>
+        <size_bytes>999</size_bytes>
+        <size_compressed>1022</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 10:18:25</sys_created_on>
+        <sys_id>e50d86c82f725010ac5bcc96f699b6cc</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 10:18:25</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>b40402442f725010ac5bcc96f699b637</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="DELETE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="e50d86c82f725010ac5bcc96f699b6cc">e50d86c82f725010ac5bcc96f699b6cc</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 10:18:25</sys_created_on>
+        <sys_id>290d86c82f725010ac5bcc96f699b6cc</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="DELETE">
+        <data>AecDGPyJUE5HDQoaCgAAAA1JSERSAAAASQAAAEgIBgAAALov2HkAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADiUlEQVR42uybP2/aQBjGD4RUVaoaV/0zpIsH9pilq80nCFm6BuYOKbMHYPCMMnTG/QRxxk7QoR3aoWboFileytJKYagUVVn6XnhNT+7FGOxDOfM+kmUwcMY/3nvuuXPCGIlEIpG0UiV+4LpuG3YmIblV5HmeHz+pCS8cw+YQn1tNYFtCqhKP1SJIBKkY1VJeG4B59XcBAgxa4zQ/pkqi7kaQCBJBIkgEiSCRCBJBIkgEiSARJIJEWqpW1gvrfJmZbLFGZOKhA9im+HgCWzh6tT/fOUgAxoBdG7YTJr/z08J9D98fwO6Unb+LdqK7wQVzOJewDVn2W2Mc2nh2+Ma8MZ77pa0krJ6RUCWbyPlpv54/uvgWPP7+2SkVJATE16etHM3wrsa9yfpdb7RujBeDp5+CvTJ1t7OcgERI3MzZn2cve9D9pqWABFXUZ/nvOCcNO8T9EEdHfSHhBfQKaCoJaY7HYp/T2pN6BbWTVokO/BgOZKlJTdMqam9QMRH6l4EVEybeY0qiA89bEx0raZ2hnofFLlRDlMhTw4x+1tK1u9kZ3+cDnE7yIBzjodEHWGdYOdaKynV0hGRl7F5dvMi36GEGHj8CULyrnYvmnOZNOo5uWaYcAZ+88irArmUInx0JFbXTSyXTlNFLrMTJLkMy78hBcRZapypLC8kWRrfkUB97lZUVUppx267r9u/ZxQezRRdZNXzzINgC3wlg38Sh3ESvWk49smas2oo06twzSAdYGVm+F59/cYPm1eQnVg6Ga1ybdmGy9XB20bner69K1stYBFB4av6Iz/cwrRsZz8eXeCPtctKTrx/s68N6JPiJbIrBhClInh5xqqtxtx/8+vE+ZSYfj1pGzvNEaPz//m1Cw4lu/BezskoqwkuP0M+0jgAdBGQkAqJZQNt+DEhrSDizbwqgzIIghXGWypKTChPkLasAj/gvOXuQeTAHjZl8PWjtHMYrNHnTcluj24jlX7CX/eKN0QJUA8+Rx4sG0JY0PFe2UEW8gq5UJQLP8+aCmbdxWWSdivIRULTJtKQoOYrbDgSf4hfs47zsGKvXkQztIQbMIA3ONiHZitsOJKYe3hEwN1K1BJWkXEo9SbEfSX1JhaoaV9HWzqEakr0FSLa23Q0D5FhBiJRNRBsqu1xFc0BisGyqAlUpASDloColAaQUVNFhsldkiMvxHbqMRCKRSCQSKZ/+CjAAXhsV71xAyO8AAAAASUVORK5CYIL9LKiD5wMAAA==</data>
+        <length>1352</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="e50d86c82f725010ac5bcc96f699b6cc">e50d86c82f725010ac5bcc96f699b6cc</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 10:18:25</sys_created_on>
+        <sys_id>a90d86c82f725010ac5bcc96f699b6cc</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="DELETE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>picture</file_name>
+        <hash>dd7f5d347ed255aee857333215ecfe4967a10f7abf14fe5f0b71187bcf1507ad</hash>
+        <image_height>72</image_height>
+        <image_width>73</image_width>
+        <size_bytes>999</size_bytes>
+        <size_compressed>1022</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 10:19:56</sys_created_on>
+        <sys_id>b75d420c2f725010ac5bcc96f699b665</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 10:19:56</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>b40402442f725010ac5bcc96f699b637</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="DELETE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="b75d420c2f725010ac5bcc96f699b665">b75d420c2f725010ac5bcc96f699b665</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 10:19:56</sys_created_on>
+        <sys_id>f75d420c2f725010ac5bcc96f699b665</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="DELETE">
+        <data>AecDGPyJUE5HDQoaCgAAAA1JSERSAAAASQAAAEgIBgAAALov2HkAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADiUlEQVR42uybP2/aQBjGD4RUVaoaV/0zpIsH9pilq80nCFm6BuYOKbMHYPCMMnTG/QRxxk7QoR3aoWboFileytJKYagUVVn6XnhNT+7FGOxDOfM+kmUwcMY/3nvuuXPCGIlEIpG0UiV+4LpuG3YmIblV5HmeHz+pCS8cw+YQn1tNYFtCqhKP1SJIBKkY1VJeG4B59XcBAgxa4zQ/pkqi7kaQCBJBIkgEiSCRCBJBIkgEiSARJIJEWqpW1gvrfJmZbLFGZOKhA9im+HgCWzh6tT/fOUgAxoBdG7YTJr/z08J9D98fwO6Unb+LdqK7wQVzOJewDVn2W2Mc2nh2+Ma8MZ77pa0krJ6RUCWbyPlpv54/uvgWPP7+2SkVJATE16etHM3wrsa9yfpdb7RujBeDp5+CvTJ1t7OcgERI3MzZn2cve9D9pqWABFXUZ/nvOCcNO8T9EEdHfSHhBfQKaCoJaY7HYp/T2pN6BbWTVokO/BgOZKlJTdMqam9QMRH6l4EVEybeY0qiA89bEx0raZ2hnofFLlRDlMhTw4x+1tK1u9kZ3+cDnE7yIBzjodEHWGdYOdaKynV0hGRl7F5dvMi36GEGHj8CULyrnYvmnOZNOo5uWaYcAZ+88irArmUInx0JFbXTSyXTlNFLrMTJLkMy78hBcRZapypLC8kWRrfkUB97lZUVUppx267r9u/ZxQezRRdZNXzzINgC3wlg38Sh3ESvWk49smas2oo06twzSAdYGVm+F59/cYPm1eQnVg6Ga1ybdmGy9XB20bner69K1stYBFB4av6Iz/cwrRsZz8eXeCPtctKTrx/s68N6JPiJbIrBhClInh5xqqtxtx/8+vE+ZSYfj1pGzvNEaPz//m1Cw4lu/BezskoqwkuP0M+0jgAdBGQkAqJZQNt+DEhrSDizbwqgzIIghXGWypKTChPkLasAj/gvOXuQeTAHjZl8PWjtHMYrNHnTcluj24jlX7CX/eKN0QJUA8+Rx4sG0JY0PFe2UEW8gq5UJQLP8+aCmbdxWWSdivIRULTJtKQoOYrbDgSf4hfs47zsGKvXkQztIQbMIA3ONiHZitsOJKYe3hEwN1K1BJWkXEo9SbEfSX1JhaoaV9HWzqEakr0FSLa23Q0D5FhBiJRNRBsqu1xFc0BisGyqAlUpASDloColAaQUVNFhsldkiMvxHbqMRCKRSCQSKZ/+CjAAXhsV71xAyO8AAAAASUVORK5CYIL9LKiD5wMAAA==</data>
+        <length>1352</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="b75d420c2f725010ac5bcc96f699b665">b75d420c2f725010ac5bcc96f699b665</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 10:19:56</sys_created_on>
+        <sys_id>7b5d420c2f725010ac5bcc96f699b665</sys_id>
+    </sys_attachment_doc>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</application>
+        <file_path/>
+        <instance_id>e2680ac9db4f889452cec5970596192f</instance_id>
+        <instance_name>dev100921</instance_name>
+        <name>sc_cat_item_producer_b40402442f725010ac5bcc96f699b637</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer"><sc_cat_item_producer action="INSERT_OR_UPDATE"><active>true</active><availability>on_desktop</availability><billable>false</billable><can_cancel>false</can_cancel><category/><cost>0</cost><custom_cart/><delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow/><group/><hide_sp>false</hide_sp><icon>e50d86c82f725010ac5bcc96f699b6cc</icon><ignore_price>false</ignore_price><image/><list_price>0</list_price><location/><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>Create Fraud Case</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>false</no_cart_v2><no_delivery_time_v2>false</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>false</no_quantity_v2><no_search>false</no_search><no_wishlist_v2>false</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><picture>b75d420c2f725010ac5bcc96f699b665</picture><post_insert_script/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=b40402442f725010ac5bcc96f699b637&amp;sysparm_preview=true", "summary");</preview><price>0</price><recurring_frequency/><recurring_price>0</recurring_price><redirect_url>generated_record</redirect_url><request_method/><roles/><sc_catalogs/><sc_ic_item_staging/><sc_ic_version/><script/><short_description>Fraud case</short_description><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><sys_class_name>sc_cat_item_producer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 09:48:11</sys_created_on><sys_id>b40402442f725010ac5bcc96f699b637</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Create Fraud Case</sys_name><sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package><sys_policy/><sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope><sys_update_name>sc_cat_item_producer_b40402442f725010ac5bcc96f699b637</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-19 11:05:02</sys_updated_on><table_name>x_278173_fraud_cas_fraud_management</table_name><template/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><view/><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item_producer><sys_translated_text action="delete_multiple" query="documentkey=b40402442f725010ac5bcc96f699b637"/><fx_price action="delete_multiple" query="id=b40402442f725010ac5bcc96f699b637"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="INR">INR</currency><field>price</field><id>b40402442f725010ac5bcc96f699b637</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 09:48:12</sys_created_on><sys_id>f21646842f725010ac5bcc96f699b671</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 09:48:12</sys_updated_on><table>sc_cat_item_producer</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="INR">INR</currency><field>recurring_price</field><id>b40402442f725010ac5bcc96f699b637</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 09:48:12</sys_created_on><sys_id>3a1646842f725010ac5bcc96f699b672</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 09:48:12</sys_updated_on><table>sc_cat_item_producer</table><type>calculated</type></fx_price><sys_attachment action="INSERT_OR_UPDATE"><average_image_color>#0</average_image_color><chunk_size_bytes>700000</chunk_size_bytes><compressed>true</compressed><content_type>image/png</content_type><encryption_context/><file_name>icon</file_name><hash>dd7f5d347ed255aee857333215ecfe4967a10f7abf14fe5f0b71187bcf1507ad</hash><image_height>72</image_height><image_width>73</image_width><size_bytes>999</size_bytes><size_compressed>1022</size_compressed><state>available</state><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 10:18:25</sys_created_on><sys_id>e50d86c82f725010ac5bcc96f699b6cc</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 10:18:25</sys_updated_on><table_name>ZZ_YYsc_cat_item_producer</table_name><table_sys_id>b40402442f725010ac5bcc96f699b637</table_sys_id></sys_attachment><sys_attachment_doc action="INSERT_OR_UPDATE"><data>H4sIAAAAAAAAAA==</data><length>16</length><position>0</position><sys_attachment display_value="icon" sys_id="e50d86c82f725010ac5bcc96f699b6cc">e50d86c82f725010ac5bcc96f699b6cc</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 10:18:25</sys_created_on><sys_id>290d86c82f725010ac5bcc96f699b6cc</sys_id></sys_attachment_doc><sys_attachment_doc action="INSERT_OR_UPDATE"><data>AecDGPyJUE5HDQoaCgAAAA1JSERSAAAASQAAAEgIBgAAALov2HkAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADiUlEQVR42uybP2/aQBjGD4RUVaoaV/0zpIsH9pilq80nCFm6BuYOKbMHYPCMMnTG/QRxxk7QoR3aoWboFileytJKYagUVVn6XnhNT+7FGOxDOfM+kmUwcMY/3nvuuXPCGIlEIpG0UiV+4LpuG3YmIblV5HmeHz+pCS8cw+YQn1tNYFtCqhKP1SJIBKkY1VJeG4B59XcBAgxa4zQ/pkqi7kaQCBJBIkgEiSCRCBJBIkgEiSARJIJEWqpW1gvrfJmZbLFGZOKhA9im+HgCWzh6tT/fOUgAxoBdG7YTJr/z08J9D98fwO6Unb+LdqK7wQVzOJewDVn2W2Mc2nh2+Ma8MZ77pa0krJ6RUCWbyPlpv54/uvgWPP7+2SkVJATE16etHM3wrsa9yfpdb7RujBeDp5+CvTJ1t7OcgERI3MzZn2cve9D9pqWABFXUZ/nvOCcNO8T9EEdHfSHhBfQKaCoJaY7HYp/T2pN6BbWTVokO/BgOZKlJTdMqam9QMRH6l4EVEybeY0qiA89bEx0raZ2hnofFLlRDlMhTw4x+1tK1u9kZ3+cDnE7yIBzjodEHWGdYOdaKynV0hGRl7F5dvMi36GEGHj8CULyrnYvmnOZNOo5uWaYcAZ+88irArmUInx0JFbXTSyXTlNFLrMTJLkMy78hBcRZapypLC8kWRrfkUB97lZUVUppx267r9u/ZxQezRRdZNXzzINgC3wlg38Sh3ESvWk49smas2oo06twzSAdYGVm+F59/cYPm1eQnVg6Ga1ybdmGy9XB20bner69K1stYBFB4av6Iz/cwrRsZz8eXeCPtctKTrx/s68N6JPiJbIrBhClInh5xqqtxtx/8+vE+ZSYfj1pGzvNEaPz//m1Cw4lu/BezskoqwkuP0M+0jgAdBGQkAqJZQNt+DEhrSDizbwqgzIIghXGWypKTChPkLasAj/gvOXuQeTAHjZl8PWjtHMYrNHnTcluj24jlX7CX/eKN0QJUA8+Rx4sG0JY0PFe2UEW8gq5UJQLP8+aCmbdxWWSdivIRULTJtKQoOYrbDgSf4hfs47zsGKvXkQztIQbMIA3ONiHZitsOJKYe3hEwN1K1BJWkXEo9SbEfSX1JhaoaV9HWzqEakr0FSLa23Q0D5FhBiJRNRBsqu1xFc0BisGyqAlUpASDloColAaQUVNFhsldkiMvxHbqMRCKRSCQSKZ/+CjAAXhsV71xAyO8AAAAASUVORK5CYIL9LKiD5wMAAA==</data><length>1352</length><position>1</position><sys_attachment display_value="icon" sys_id="e50d86c82f725010ac5bcc96f699b6cc">e50d86c82f725010ac5bcc96f699b6cc</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 10:18:25</sys_created_on><sys_id>a90d86c82f725010ac5bcc96f699b6cc</sys_id></sys_attachment_doc><sys_attachment action="INSERT_OR_UPDATE"><average_image_color>#0</average_image_color><chunk_size_bytes>700000</chunk_size_bytes><compressed>true</compressed><content_type>image/png</content_type><encryption_context/><file_name>picture</file_name><hash>dd7f5d347ed255aee857333215ecfe4967a10f7abf14fe5f0b71187bcf1507ad</hash><image_height>72</image_height><image_width>73</image_width><size_bytes>999</size_bytes><size_compressed>1022</size_compressed><state>available</state><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 10:19:56</sys_created_on><sys_id>b75d420c2f725010ac5bcc96f699b665</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 10:19:56</sys_updated_on><table_name>ZZ_YYsc_cat_item_producer</table_name><table_sys_id>b40402442f725010ac5bcc96f699b637</table_sys_id></sys_attachment><sys_attachment_doc action="INSERT_OR_UPDATE"><data>H4sIAAAAAAAAAA==</data><length>16</length><position>0</position><sys_attachment display_value="picture" sys_id="b75d420c2f725010ac5bcc96f699b665">b75d420c2f725010ac5bcc96f699b665</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 10:19:56</sys_created_on><sys_id>f75d420c2f725010ac5bcc96f699b665</sys_id></sys_attachment_doc><sys_attachment_doc action="INSERT_OR_UPDATE"><data>AecDGPyJUE5HDQoaCgAAAA1JSERSAAAASQAAAEgIBgAAALov2HkAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADiUlEQVR42uybP2/aQBjGD4RUVaoaV/0zpIsH9pilq80nCFm6BuYOKbMHYPCMMnTG/QRxxk7QoR3aoWboFileytJKYagUVVn6XnhNT+7FGOxDOfM+kmUwcMY/3nvuuXPCGIlEIpG0UiV+4LpuG3YmIblV5HmeHz+pCS8cw+YQn1tNYFtCqhKP1SJIBKkY1VJeG4B59XcBAgxa4zQ/pkqi7kaQCBJBIkgEiSCRCBJBIkgEiSARJIJEWqpW1gvrfJmZbLFGZOKhA9im+HgCWzh6tT/fOUgAxoBdG7YTJr/z08J9D98fwO6Unb+LdqK7wQVzOJewDVn2W2Mc2nh2+Ma8MZ77pa0krJ6RUCWbyPlpv54/uvgWPP7+2SkVJATE16etHM3wrsa9yfpdb7RujBeDp5+CvTJ1t7OcgERI3MzZn2cve9D9pqWABFXUZ/nvOCcNO8T9EEdHfSHhBfQKaCoJaY7HYp/T2pN6BbWTVokO/BgOZKlJTdMqam9QMRH6l4EVEybeY0qiA89bEx0raZ2hnofFLlRDlMhTw4x+1tK1u9kZ3+cDnE7yIBzjodEHWGdYOdaKynV0hGRl7F5dvMi36GEGHj8CULyrnYvmnOZNOo5uWaYcAZ+88irArmUInx0JFbXTSyXTlNFLrMTJLkMy78hBcRZapypLC8kWRrfkUB97lZUVUppx267r9u/ZxQezRRdZNXzzINgC3wlg38Sh3ESvWk49smas2oo06twzSAdYGVm+F59/cYPm1eQnVg6Ga1ybdmGy9XB20bner69K1stYBFB4av6Iz/cwrRsZz8eXeCPtctKTrx/s68N6JPiJbIrBhClInh5xqqtxtx/8+vE+ZSYfj1pGzvNEaPz//m1Cw4lu/BezskoqwkuP0M+0jgAdBGQkAqJZQNt+DEhrSDizbwqgzIIghXGWypKTChPkLasAj/gvOXuQeTAHjZl8PWjtHMYrNHnTcluj24jlX7CX/eKN0QJUA8+Rx4sG0JY0PFe2UEW8gq5UJQLP8+aCmbdxWWSdivIRULTJtKQoOYrbDgSf4hfs47zsGKvXkQztIQbMIA3ONiHZitsOJKYe3hEwN1K1BJWkXEo9SbEfSX1JhaoaV9HWzqEakr0FSLa23Q0D5FhBiJRNRBsqu1xFc0BisGyqAlUpASDloColAaQUVNFhsldkiMvxHbqMRCKRSCQSKZ/+CjAAXhsV71xAyO8AAAAASUVORK5CYIL9LKiD5wMAAA==</data><length>1352</length><position>1</position><sys_attachment display_value="picture" sys_id="b75d420c2f725010ac5bcc96f699b665">b75d420c2f725010ac5bcc96f699b665</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 10:19:56</sys_created_on><sys_id>7b5d420c2f725010ac5bcc96f699b665</sys_id></sys_attachment_doc></record_update>]]></payload>
+        <payload_hash>0</payload_hash>
+        <record_name>Create Fraud Case</record_name>
+        <reverted_from/>
+        <source>7aa40cae2faa9010ac5bcc96f699b66d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-19 11:05:02</sys_created_on>
+        <sys_id>964123502f329010ac5bcc96f699b64a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1740664c9da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-19 11:05:02</sys_updated_on>
+        <type>Record Producer</type>
+        <update_guid>5e4123502a32901041d618133898bf49</update_guid>
+        <update_guid_history>5e4123502a32901041d618133898bf49:-1717103119,fb5dc20cfd725010d6468d945b6a1041:1792736812,7f5d420c2172501072617878bfef3569:961453153,610d8ec8c6725010160caac3f23398ba:834747714,610d86c8b07250107921cca16968fad1:-783517575,87168a84ac72501061f7fb04a613bcaf:-262181869</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create Fraud Case">6a4123502f329010ac5bcc96f699b68a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-19 11:05:04</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_producer">sc_cat_item_producer</sys_db_object>
+        <sys_id>ca752b94f4df47e284bc3c97bdb91cc4</sys_id>
+        <sys_metadata>b40402442f725010ac5bcc96f699b637</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Fraud Case</sys_name>
+        <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+        <sys_parent display_value="Fraud Management">ab3df9ae2fee9010ac5bcc96f699b6b2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+        <sys_scope_delete display_value="">1c2b68c0032b43f4a445980afa32d090</sys_scope_delete>
+        <sys_update_name>sc_cat_item_producer_b40402442f725010ac5bcc96f699b637</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_producer_b40402442f725010ac5bcc96f699b637">964123502f329010ac5bcc96f699b64a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-19 11:05:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

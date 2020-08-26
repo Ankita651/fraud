@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem">
+    <sys_ux_custom_content_root_elem action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability>single</applicability>
+        <applicable_page display_value="Fraud Case Management">b8c1384e2fb21010ac5bcc96f699b619</applicable_page>
+        <attrs/>
+        <children/>
+        <component/>
+        <is_root>true</is_root>
+        <layout/>
+        <macroponent display_value="Fraud page">e28e5d0e2f361010ac5bcc96f699b65c</macroponent>
+        <macroponent_config>{
+  "label" : ""
+}</macroponent_config>
+        <name>Fraud page</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent/>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <placeholder display_value="Landing Page Placeholder">e1c1348e2fb21010ac5bcc96f699b61b</placeholder>
+        <sys_class_name>sys_ux_custom_content_root_elem</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 12:03:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2a8e5d4e2f361010ac5bcc96f699b605</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Fraud page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+        <sys_update_name>sys_ux_custom_content_root_elem_2a8e5d4e2f361010ac5bcc96f699b605</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 12:30:25</sys_updated_on>
+        <tree_root/>
+    </sys_ux_custom_content_root_elem>
+    <sys_variable_value action="delete_multiple" query="document_key=2a8e5d4e2f361010ac5bcc96f699b605"/>
+</record_update>

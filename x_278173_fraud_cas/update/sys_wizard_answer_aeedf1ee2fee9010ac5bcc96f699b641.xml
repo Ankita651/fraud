@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Fraud Management</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Fraud Management</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">dd0c8a852f030010ac5bcc96f699b674</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-13 17:21:31</sys_created_on>
+        <sys_id>aeedf1ee2fee9010ac5bcc96f699b641</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fraud Management</sys_name>
+        <sys_package display_value="Fraud Case Management" source="x_278173_fraud_cas">cd54c46e2faa9010ac5bcc96f699b6b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud Case Management">cd54c46e2faa9010ac5bcc96f699b6b6</sys_scope>
+        <sys_update_name>sys_wizard_answer_aeedf1ee2fee9010ac5bcc96f699b641</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-13 17:21:31</sys_updated_on>
+        <table/>
+        <target_url>x_278173_fraud_cas_fraud_management.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
